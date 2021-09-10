@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Juan Pablo | Hugo Portfolio Template"
 
 # css plugins
 [[params.plugins.css]]
